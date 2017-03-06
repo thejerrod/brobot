@@ -24,4 +24,3 @@ while True:
     show()
     time.sleep(0.08)
 
-
